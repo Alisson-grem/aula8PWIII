@@ -49,13 +49,12 @@
 
 }
 
-.papeldeparede {
+.KKKK {
   position: absolute;
   display: flex;
-  bottom: 457px;
-  right: 495px;
+  bottom: 662px;
+  right: 757px;
   height: 280px;
-  opacity: 80%;
   
 }
 
@@ -63,7 +62,7 @@
   position: absolute;
   display: flex;
   height: 350px;
-  right: 710px;
+  left: 290px;
   top: 397px;
 }
 
@@ -72,13 +71,21 @@
   display: flex;
   height: 325px;
   top: 397px;
-  right: 150px;
+  right: 340px;
 }
 
 .Olhando {
   position: absolute;
   display: flex;
   height: 225px;
-  top: 503px;
+  top: 718px;
   opacity: 45%;
+}
+
+.Terra {
+  position: absolute;
+  display: flex;
+  height: 105px;
+  top: 218px;
+  
 }

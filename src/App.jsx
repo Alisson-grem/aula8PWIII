@@ -16,18 +16,21 @@ function App() {
         <p>O nome digitado foi: {nome}</p>
       )}
     </div>
-    <div className='papeldeparede'>
-    <img src='./Bikini Bottoms.png' alt='BBs'/>
+    <div className='KKKK'>
+    <img src='./Teto rindo.png' alt='HAHAHA'/>
     </div>
     <div className='Pearto'>
       <img src='./Pearto.png' alt='Coisa'/>
 
     </div>
     <div className='Teto'>
-      <img src='./Teto plush.png' alt='teto'/>
+      <img src='./Teto da Sabedoria.png' alt='teto'/>
     </div>
     <div className='Olhando'>
       <img src='./Goku.png' alt='Goku'/>
+    </div>
+    <div className='Terra'>
+        <img src='./Comer terra.png' alt='Comer'/>
     </div>
     </div>
     
